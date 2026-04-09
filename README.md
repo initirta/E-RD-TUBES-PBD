@@ -18,9 +18,9 @@ Dokumen ini berisi pemodelan konseptual basis data yang meliputi **entitas, atri
 
 ---
 
-## Pemodelan Konseptual (ERD)
+## Pemodelan Konseptual
 
-### Entitas & Atribut Penting
+### Entitas & Atribut
 
 | Entitas | Atribut kunci | Atribut penting lainnya |
 |---------|--------------|--------------------------|
