@@ -6,7 +6,7 @@ Dokumen ini berisi pemodelan konseptual basis data yang meliputi **entitas, atri
 
 ---
 
-## Aturan Bisnis (Ringkasan)
+## Aturan Bisnis
 1. Setiap posyandu memiliki nama, kelompok, warna, lokasi, dan daftar kegiatan.
 2. Kader (dengan data lengkap) bertugas di satu posyandu.
 3. Setiap kader mendata Kartu Keluarga (KK) dalam cakupannya. Sasaran: ibu hamil/nifas, ibu bayi/balita, atau keduanya.
