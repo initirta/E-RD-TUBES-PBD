@@ -1,12 +1,12 @@
 # Sistem Informasi Posyandu Sehat - Negeri Konoa
 
-## 📌 Pendahuluan
+## Pendahuluan
 Sistem ini dirancang untuk mendata seluruh kegiatan posyandu, memantau vaksinasi, KB, serta parameter kecukupan gizi bayi dan balita (0–5 tahun) di Negeri Konoa.  
 Dokumen ini berisi pemodelan konseptual basis data yang meliputi **entitas, atribut, relasi, kardinalitas, serta diagram ER** sebagai dasar implementasi sistem.
 
 ---
 
-## 📋 Aturan Bisnis (Ringkasan)
+## Aturan Bisnis (Ringkasan)
 1. Setiap posyandu memiliki nama, kelompok, warna, lokasi, dan daftar kegiatan.
 2. Kader (dengan data lengkap) bertugas di satu posyandu.
 3. Setiap kader mendata Kartu Keluarga (KK) dalam cakupannya. Sasaran: ibu hamil/nifas, ibu bayi/balita, atau keduanya.
@@ -18,7 +18,7 @@ Dokumen ini berisi pemodelan konseptual basis data yang meliputi **entitas, atri
 
 ---
 
-## 🧩 Pemodelan Konseptual (ERD)
+## Pemodelan Konseptual (ERD)
 
 ### Entitas & Atribut Penting
 
@@ -43,7 +43,7 @@ Dokumen ini berisi pemodelan konseptual basis data yang meliputi **entitas, atri
 
 ---
 
-## 🔗 Relasi Antar Entitas & Kardinalitas
+## Relasi Antar Entitas & Kardinalitas
 
 Berikut adalah relasi binary utama beserta kardinalitas dan penjelasan:
 
@@ -65,7 +65,7 @@ Berikut adalah relasi binary utama beserta kardinalitas dan penjelasan:
 
 ---
 
-## 📊 ER Diagram (Mermaid)
+## ER Diagram (Mermaid)
 
 > **Cara melihat:** Salin kode di bawah ke [Mermaid Live Editor](https://mermaid.live) atau gunakan plugin GitHub yang mendukung `erDiagram`.
 
